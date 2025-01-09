@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+body, header, footer{
+	font-family: "Hina Mincho", sans-serif;
+}
+
+h1{
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+	margin: 2% 2% 1% 1%;
+}
+
+h2{
+	text-align: center;
+	text-decoration: underline;
+	margin: 2% 2% 1% 1%;
+}
+
+
+header{
+	margin-bottom: 2%;
+}
+
+
+footer{
+	margin-top: 2%;
+}
+
+
+
+table{
+	padding: 10px 10px 15px 15px;
+	margin: 10px 10px 15px 15px;
+}
+
+
+
+.navbar {
+   padding: 1rem 1rem;
+   font-size: 1.2rem;
+}
+
+.navbar-brand img {
+    height: 40px;
+}
+
+.nav-link {
+    color: #ffffff !important; /* Ensure navigation links are visible */
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    color: #1a652a !important; /* Add a hover effect */
+}
+
+.navbar-icons {
+    display: flex;
+    gap: 1rem; /* Add spacing between icons */
+    align-items: center;
+}
+
+.navbar-icons i {
+    font-size: 1.5rem; /* Increase icon size */
+    color: #ffffff; /* Make icons visible */
+}
+
+.navbar-icons i:hover {
+    color: #1a652a;
+    font-size: 1.2rem;
+}
+
+footer a:hover {
+    color: #ccc; 
+    text-decoration: underline;
+}
+
+/* .text-column span {
+    display: block;
+    font-size: 2rem; 
+    font-weight: bold; 
+} */
