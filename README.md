@@ -1,5 +1,5 @@
 # finance-tracker-project-java
-*Japanese Below*
+*Japanese Below
 A simple and customizable web application for tracking income and expenses. This app allows users to upload all their transactions at once using CSV files downloaded from their bank or credit card company. Users can assign each transaction (payee) to a category for better organization. Additionally, users can customize CSV formats, mapping columns from the CSV file to specific database fields.
 
 The goal of this app is to minimize the time I spend on tracking my finance. Because I'm tired of inputting all my transactions from different banks and credit cards one-by-one.
