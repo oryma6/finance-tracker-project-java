@@ -8,7 +8,7 @@ The goal of this app is to minimize the time I spend on tracking my finance. Bec
 This app's user interface is written in Japanese.
 
 ## Current Status
-This project is still under development. While core features are functional, some bugs need to be resolved before recommending use or contribution.
+While core features are functional, some bugs need to be resolved before recommending use or contribution.
 
 ## Features
 - **Batch Transaction Input**: Upload CSV files to record multiple transactions at once.
